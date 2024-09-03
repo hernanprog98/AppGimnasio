@@ -1,0 +1,41 @@
+--1) Crear bd
+--create database BD_GIMNASIO
+
+USE BD_GIMNASIO
+SET DATEFORMAT dmy
+
+GO
+
+create table Membresias(
+id_membresia int identity(1,1),
+membresia varchar(50)
+
+constraint pk_membresia primary key (id_membresia)
+)
+
+create table Clientes(
+id_cliente int identity(1,1),
+dni int,
+nombre varchar(50),
+apellido varchar(50),
+membresia int,
+fechaInicio datetime,
+contacto int
+
+constraint pk_cliente primary key (id_cliente)
+)
+
+GO
+
+insert into Membresias(membresia)
+values ('Mensual')
+
+insert into Membresias(membresia)
+values ('Trimestral')
+
+insert into Membresias(membresia)
+values ('Anual')
+
+Go
+
+--Crear CLIENTES desde el ABM
