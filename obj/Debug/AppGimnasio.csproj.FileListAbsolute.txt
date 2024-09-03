@@ -1,0 +1,12 @@
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\bin\Debug\AppGimnasio.exe.config
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\bin\Debug\AppGimnasio.exe
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\bin\Debug\AppGimnasio.pdb
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.csproj.AssemblyReference.cache
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.Properties.Resources.resources
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.csproj.GenerateResource.cache
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.csproj.CoreCompileInputs.cache
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.exe
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.pdb
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.Form1.resources
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.Menu.resources
+C:\Users\PCDELL\Documents\AppGimnasio\AppGimnasio\AppGimnasio\obj\Debug\AppGimnasio.Nuevo.resources
